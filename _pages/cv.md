@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Journal Papers
+- Jinxian Deng, Boxin Sun, Norman Scheel, **Alina Brighty Renli**, David Zhu, Dajiang Zhu, Jian Ren, Tongtong Li and Rong Zhang. (2023). Causalized Convergent Cross Mapping and its Ap- proximate Equivalence with Directed Information in Causality Analysis, PNAS nexus, 3(1), pgad422. https://doi.org/10.1093/pnasnexus/pgad422
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Yuan Liang, Yu Zheng, **Alina Brighty Renli**, David C. Zhu, Fang Yu and Tongtong Li. Dynamic Functional Connectivity Fading Analysis and Classification of Alzheimer’s Disease, Mild Cognitive Impairment and Normal Control Subjects based on Resting-State fMRI Data, OBM Neurobiology, 2020; 4(2):20;  https://doi.org/10.21926/obm.neurobiol.2002059.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Alina Brighty Renli**, Boxin Sun, Ming Gu, Voyko Kavcic, Tongtong Li and Bruno Giordani, Altered Effective Connectivity Patterns in MCI Patients during Motion Detection Tasks: an EEG study, under preparation.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+## Conference Papers
+- **Alina Brighty Renli**, Boxin Sun, Ming Gu, Jinxian Deng, Voyko Kavcic, Tongtong Li, and Bruno Giordani, Altered Effective Connectivity Patterns in Low-Gamma Band for MCI Patients in Motion Detection Tasks, Alzheimer’s Association International Conference (AAIC 2024), July 28–August 1, 2024, Philadelphia, USA, and Online.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+- Boxin Sun, Jinxian Deng, **Alina Brighty Renli**, Voyko Kavcic, Jian Ren, Bruno Giordani, Rong Zhang, and Tongtong Li, Evaluating Time-Delayed Effective Connectivity for Normal Cognition and MCI under Motion Detection Tasks: an EEG Study, Alzheimer’s Association International Conference (AAIC 2024), July 28–August 1, 2024, Philadelphia, USA, and Online.
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Alina Brighty Renli**, Ming Gu, Boxin Sun, Tongtong Li, Voyko Kavcic, and Bruno Giordani, Low-Gamma Band Reveals Different Effective Connectivity Patterns between Healthy Controls and MCI Patients in Motion Detection Tasks, submitted to MOBI 2024, 5th International Mobile Brain/Body Imaging Conference, June 2–5, 2024, Piran, Slovenia.
+
+- **Alina Brighty Renli**, Boxin Sun, Ming Gu, Tongtong Li, Voyko Kavcic and Bruno Giordani, EEG- based Analysis Reveals Different Effective Connectivity Patterns between Healthy Controls and MCI Patients in Motion Detection Tasks, Alzheimer’s Association International Conference (AAIC), July 16-20, 2023, Amsterdam, Netherlands, and Online.
+
+- **Alina Brighty Renli**, Boxin Sun, Ming Gu, Tongtong Li, Voyko Kavcic and Bruno Giordani, Alter- nations of Effective Connectivity Patterns in Mild Cognitive Impairment: An EEG Study, Michigan Alzheimer’s Disease Research Center (MADRC) 7th Annual Beyond Amyloid Research Symposium, Detroit, Michigan, May 19, 2023.
+
+- **Alina Brighty Renli**, Emma Niebrzydoski, Michael Moore and Mark Reimers, Utilization and Application of Deep Learning Software in Brain Activity Analysis of Animal Models, 2022 Mid-Michigan Symposium for Undergraduate Research Experiences (MID-SURE), East Lansing, Michigan, July 26, 2022.
+
+- **Alina Brighty Renli**, Yu Zheng, David Zhu and Tongtong Li, Fading Effect Analysis in Time-Varying Functional Connectivity for AD, MCI and NC Based on Resting-State fMRI Data, IEEE International Engineering in Medicine and Biology Conference (EMBC) 2019, Berlin, Germany.
