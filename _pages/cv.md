@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Water](/least-github-pages/assets/logo.png)
+[Water](cup.png)
