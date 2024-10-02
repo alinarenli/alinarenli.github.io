@@ -10,6 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-<img src = '/_pages/cup.png'>
+<img src = '/_pages/water.png'>
 
 <img src = '/_pages/guy.png'>
