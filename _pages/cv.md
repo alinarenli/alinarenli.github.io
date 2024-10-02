@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Art"
+excerpt: <img src = 'cup.png'>
 permalink: /art/
 author_profile: true
 redirect_from:
@@ -8,5 +9,3 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-[Water](cup.png)
