@@ -12,4 +12,4 @@ redirect_from:
 
 <img src = '/_pages/cup.png'>
 
-[Water](cup.png)
+<img src = '/_pages/guy.png'>
