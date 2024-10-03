@@ -21,7 +21,7 @@ repository               : "alinarenli/alinarenli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "brown bear.jpg"
+  avatar           : "bear test.jpg"
   name             : "Alina Renli"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
