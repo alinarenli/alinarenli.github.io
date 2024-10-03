@@ -13,3 +13,5 @@ redirect_from:
 <img src = '/_pages/water.png'>
 
 <img src = '/_pages/rose !.jpg'>
+
+<img src = '/_pages/cake.jpg'>
