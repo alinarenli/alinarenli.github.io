@@ -15,7 +15,7 @@ redirect_from:
 
 - Yuan Liang, Yu Zheng, **Alina Renli**, David C. Zhu, Fang Yu and Tongtong Li. Dynamic Functional Connectivity Fading Analysis and Classification of Alzheimer’s Disease, Mild Cognitive Impairment and Normal Control Subjects based on Resting-State fMRI Data, OBM Neurobiology, 2020; 4(2):20;  [https://doi.org/10.21926/obm.neurobiol.2002059](https://doi.org/10.21926/obm.neurobiol.2002059).
 
-- **Alina Renli**, Boxin Sun, Ming Gu, Voyko Kavcic, Tongtong Li and Bruno Giordani, Altered Effective Connectivity Patterns in MCI Patients during Motion Detection Tasks: an EEG study, under preparation.
+- **Alina Renli**, Boxin Sun, Ming Gu, Voyko Kavcic, Tongtong Li and Bruno Giordani, EEG-based Information Transfer Paths during Motion Discrimination: Detectable Differences between Normal Cognition and MCI, submitted to Alzheimer's & Dementia/under review.
 
 
 ## Conference Papers
