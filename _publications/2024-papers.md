@@ -11,11 +11,12 @@ redirect_from:
 
 
 ## Journal Papers
+- **Alina Renli**, Boxin Sun, Ming Gu, Voyko Kavcic, Tongtong Li and Bruno Giordani, EEG-based Information Transfer Paths during Motion Discrimination: Detectable Differences between Normal Cognition and MCI, submitted to Alzheimer's & Dementia/under review.
+  
 - Jinxian Deng, Boxin Sun, Norman Scheel, **Alina Renli**, David Zhu, Dajiang Zhu, Jian Ren, Tongtong Li and Rong Zhang. (2023). Causalized Convergent Cross Mapping and its Ap- proximate Equivalence with Directed Information in Causality Analysis, PNAS nexus, 3(1), pgad422. [https://doi.org/10.1093/pnasnexus/pgad422](https://doi.org/10.1093/pnasnexus/pgad422).
 
 - Yuan Liang, Yu Zheng, **Alina Renli**, David C. Zhu, Fang Yu and Tongtong Li. Dynamic Functional Connectivity Fading Analysis and Classification of Alzheimer’s Disease, Mild Cognitive Impairment and Normal Control Subjects based on Resting-State fMRI Data, OBM Neurobiology, 2020; 4(2):20;  [https://doi.org/10.21926/obm.neurobiol.2002059](https://doi.org/10.21926/obm.neurobiol.2002059).
 
-- **Alina Renli**, Boxin Sun, Ming Gu, Voyko Kavcic, Tongtong Li and Bruno Giordani, EEG-based Information Transfer Paths during Motion Discrimination: Detectable Differences between Normal Cognition and MCI, submitted to Alzheimer's & Dementia/under review.
 
 
 ## Conference Papers
